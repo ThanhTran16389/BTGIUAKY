@@ -1,0 +1,12 @@
+{
+  "extends": ["react-app", "prettier"],
+  "plugins": ["react", "prettier"],
+  "rules": {
+    "prettier/prettier": [
+      "error",
+      {
+        // Các tùy chỉnh của Prettier ở đây
+      }
+    ]
+  }
+}
